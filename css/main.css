@@ -1,0 +1,51 @@
+div{ 
+	border:0px solid;
+	margin: 10px;
+
+}
+hr{
+	
+    height: 5px;
+    width: 200px;
+    border: 16px;
+    margin-left: 5px;
+    background-color: black;
+
+}
+.marco{
+	border:  2px; 
+ 	width: 800px;
+	height: 250px;
+	margin-top: 50px;
+	margin-left: 300px;
+
+
+}	
+.uno{
+	display: inline-block;
+	margin: 5px 5px 5px 5px;
+	-webkit-filter: brightness(54%);
+	 filter: brightness(54spx);
+	 width: 210px;
+	height: 210px;
+
+}
+
+.dos{
+	 display: inline-block;
+	 margin: 5px 5px 5px 5px;
+    -webkit-filter: brightness(54%);
+	 filter: brightness(54spx);
+
+
+}
+.tres{ 
+	display: inline-block;
+	margin: 30px 30px 30px 30px;
+	-webkit-filter: brightness(54%);
+	 filter: brightness(54spx);
+
+}
+body{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/564x/c7/cb/b1/c7cbb128b5d4ed6fb920986e2fb20361.jpg);
+}
